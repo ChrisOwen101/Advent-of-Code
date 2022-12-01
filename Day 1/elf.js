@@ -1,5 +1,3 @@
-const { get } = require("http");
-
 fs = require("fs");
 
 function readElfGatheringData(callback) {
